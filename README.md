@@ -13,7 +13,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>MEC C</h4>
+<h4>MEC D</h4>
 
 <table>
 	<tr>
@@ -23,61 +23,61 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>24/01/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>31/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar Keil</td>
+		<td>31/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización de guía No. 1 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
-		<td>07/02/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización de guía No. 1 de laboratorio y proyecto</td>
+		<td>07/02/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>14/02/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>14/02/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Socialización de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>21/02/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>21/02/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>28/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de Guía No. 2 de laboratorio</td>
+		<td>28/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>07/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>07/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
-		<td>14/03/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>14/03/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Socialización de guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>21/03/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 3 de laboratorio</td>
+		<td>21/03/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>28/03/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega guía No. 3 de laboratorio</td>
+		<td>28/03/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Socialización de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>04/04/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
+		<td>04/04/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>11/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 4 de laboratorio</td>
+		<td>11/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 6 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>18/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--semana de parciales del segundo corte-->
 		<tr>
-		<td>25/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
+		<td>25/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
-		<td>02/05/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 4 de laboratorio</td>
+		<td>02/05/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 7 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>09/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>09/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>16/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>16/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Socialización de guía No. 8 de laboratorio</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>23/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto<br>Entrega de notas finales</td>
+		<td>23/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
-<h4>MEC C</h4>
+<h4>MEC D</h4>
 
 <table>
 	<tr>
