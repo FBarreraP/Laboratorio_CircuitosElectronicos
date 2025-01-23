@@ -3,7 +3,7 @@ Materia: Laboratorio de circuitos ⚡<br>
 Universidad: UMNG 🏫<br>
 Año: 2025 📅</h1><br>
 
-El laboratorio de circuitos está enfocado al desarrollo de circuitos electrónicos. Este curso tiene un valor del 30% en la nota final del curso.
+El laboratorio de circuitos está enfocado al desarrollo de circuitos electrónicos y al manejo de instrumentos de medición. Este curso tiene un valor del 30% en la nota final del curso.
 
 <h1>Aula 1</h1>
 
@@ -90,7 +90,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Guía No. 1 de laboratorio</td>
 		<td>3.3%</td>
 		<td>07/02/2025</td>
-		<td rowspan="5">Presencial</td>
+		<td rowspan="8">Presencial</td>
 	</tr>
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
