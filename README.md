@@ -174,7 +174,7 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 	<li> Proteus</li>
     <li> Fuentes de alimentación</li>
 	<div align="center">
-	<img src="image.png" alt="Fuente dual"/>
+	<img src="image-1.png" alt="Fuente dual"/>
 	<br>
 	<figcaption>Fuente: https://www.sigmaelectronica.net/producto/utp3305/</figcaption>
 	</div>
