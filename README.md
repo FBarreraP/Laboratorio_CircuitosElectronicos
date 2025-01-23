@@ -173,9 +173,19 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 	<li> Computador 💻</li>
 	<li> Proteus</li>
     <li> Fuentes de alimentación</li>
-    <img src="https://cdnx.jumpseller.com/mactornica/image/9804941/1.jpg?1653696069" alt="Fuente AMS1117" caption="Hola"/>
+	<div align="center">
+	<img src="image.png" alt="Fuente dual"/>
+	<br>
+	<figcaption>Fuente: https://www.sigmaelectronica.net/producto/utp3305/</figcaption>
+	</div>
     <li> Multimetro</li>
     <img src="https://electronicasannicolas.com.co/wp-content/uploads/2022/03/MULTIMETRO-DIGITAL-UT33C-UNIT-3641.png" alt="Multimetro UNI-T" caption="Hola"/>
+	<li>Osciloscopio</li>
+	<div align="center">
+	<img src="image.png" alt="Osciloscopio"/>
+	<br>
+	<figcaption>Fuente: https://www.ingenierizando.com/laboratorio/osciloscopio/</figcaption>
+	</div>
     <li> Leds, resistencias, pulsadores, cables, protoboard</li>
     <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9gkrJHsEK9MCYNnJTZklwsNtW58ZzmrtdPMma9dXKXkLdYbt1PkHeGMi5cwDLLlRiOng2ozwdsB60QtZNCQF4hc3WUnPT6rx9HmCUAt1KuATjyJY9bNNWRA&usqp=CAE" alt="kit de protoboard" caption="Hola"/>
     <li> Potenciómetro</li>
