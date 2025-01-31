@@ -1,6 +1,6 @@
 <h1>Aula 2</h1>
 
-En esta clase se presenta el manejo del multímetro y del protoboard
+En esta clase se presentan la codificación de colores de las resistencias, la ley de Ohm, el manejo del multímetro y del protoboard
 
 <h2>Resistencias</h2>
 
