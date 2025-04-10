@@ -65,7 +65,8 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 
 <h3>Medir tiempo y frecuencia</h3>
 
-1. Usar la función de periodo y de tiempo de subida/bajada
+1. Usar la función de mediciones para medir el periodo, la frecuencia, voltaje pico a pico, voltajes máximo y mínimo, voltaje RMS.
+2. Usar la función cursor para medir los tiempos entre flancos.
 
 <div align="center">
 <img src="Imagenes/image-2.png" alt="medición por división"/>
