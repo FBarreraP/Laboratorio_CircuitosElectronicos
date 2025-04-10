@@ -10,7 +10,7 @@ Un generador de señales es un equipo de prueba que permite generar señales el�
 2. Configurar la frecuencia y la amplitud de la señal.
 
 <div align="center">
-<img src="Imagenes/image-1.png" alt=""/>
+<img src="Imagenes/image-1.png" alt="Generador de señales"/>
 <br>
 <figcaption>Fuente: https://diotronic.com/generadores-de-funciones/5214-generador-funciones-3-mhz</figcaption>
 </div>
