@@ -13,6 +13,7 @@ Un generador de señales es un equipo de prueba que permite generar señales el�
 <img src="Imagenes/image-1.png" alt="Generador de señales"/>
 <br>
 <figcaption>Fuente: https://diotronic.com/generadores-de-funciones/5214-generador-funciones-3-mhz</figcaption>
+<br>
 </div>
 
 <h2>Osciloscopio</h2>
@@ -21,13 +22,16 @@ El osciloscopio es un instrumento de medición mediante gráficas, el cual mide 
 
 1. El voltaje pico a pico (Vpp), el voltaje de pico (Vp) y el voltaje eficaz (Vrms).
 2. El periodo, la frecuencia, los tiempos de subida y bajada de las señales.
-3. El desfase entre dos señales utilizando el modo XY.
+3. El desfase entre dos señales.
 
 <div align="center">
 <img src="Imagenes/image-5.png" alt="osciloscopio"/>
 <br>
 <figcaption>Fuente: https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/UaUAAOSw9T1emd73/$_57.JPG?set_id=8800005007</figcaption>
+<br>
 </div>
+
+*El <i>trigger</i> es un disparador del osciloscopio que captura una señal y genera una imagen fija en la pantalla.
 
 Como buena práctica, antes de realizar una medición con el osciloscopio se debe calibrar a partir de la señal por defecto que trae consigo el instrumento de medida.
 
@@ -35,6 +39,7 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 <img src="Imagenes/image-4.png" alt="calibración"/>
 <br>
 <figcaption>Fuente: https://www.youtube.com/watch?v=rxQChWP2jqQ</figcaption>
+<br>
 </div>
 
 <h3>Medir voltaje</h3>
@@ -53,6 +58,7 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 <img src="Imagenes/image-2.png" alt="medición por división"/>
 <br>
 <figcaption>Fuente: https://personales.upv.es/jogomez/labvir/material/osciloscopio.htm</figcaption>
+<br>
 </div>
 
 <h2>Osciloscopio y generador de señales</h2>
@@ -61,4 +67,5 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 <img src="Imagenes/image.png" alt="Osciloscopio y generador de señales"/>
 <br>
 <figcaption>Fuente: https://gatogenerator.blogspot.com/2010/09/un-generador-de-funciones-es-un-aparato.html</figcaption>
+<br>
 </div>
