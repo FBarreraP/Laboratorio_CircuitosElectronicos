@@ -37,8 +37,8 @@ El osciloscopio es un instrumento de medición mediante gráficas, el cual mide 
 
 Como buena práctica, antes de realizar una medición con el osciloscopio se debe calibrar a partir de la señal por defecto que trae consigo el instrumento de medida. Para esto se deben realizar los siguientes pasos:
 
-1. Conectar la sonda al conector de prueba
-2. Calibrar la atenuación de la sonda
+1. Conectar la sonda al conector de prueba de la señal de referencia
+2. Calibrar el <i>trigger</i> de la sonda si la forma de onda de la señal no es estática
 3. Calibrar las escalas horizontal y vertical
 
 <div align="center">
@@ -47,6 +47,8 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 <figcaption>Fuente: https://www.youtube.com/watch?v=rxQChWP2jqQ</figcaption>
 <br>
 </div>
+
+* En los osciloscopios digitales solamente se debe conectar la sonda al conector de prueba de la señal de referencia y presionar el botón <i>auto set</i>.
 
 <h3>Medir voltaje</h3>
 
