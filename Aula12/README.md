@@ -39,7 +39,7 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 
 1. Conectar la sonda al conector de prueba de la señal de referencia
 2. Calibrar el <i>trigger</i> de la sonda si la forma de onda de la señal no es estática
-3. Calibrar las escalas horizontal y vertical
+3. Calibrar las escalas horizontal y vertical para la amplitud y frecuencia de la señal de referencia
 
 <div align="center">
 <img src="Imagenes/image-4.png" alt="calibración"/>
