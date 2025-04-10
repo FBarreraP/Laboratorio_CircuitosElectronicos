@@ -56,6 +56,13 @@ Como buena práctica, antes de realizar una medición con el osciloscopio se deb
 3. Ajustar la escala horizontal (tiempo) para observar la forma de onda del voltaje.
 4. Leer y analizar la medición de voltaje directamente de la pantalla del osciloscopio.
 
+<div align="center">
+<img src="Imagenes/image-3.png" alt="medición voltaje"/>
+<br>
+<figcaption>Fuente: https://www.testandmeasurementtips.com/using-oscilloscope-find-unknown-capacitance/</figcaption>
+<br>
+</div>
+
 <h3>Medir tiempo y frecuencia</h3>
 
 1. Usar la función de periodo y de tiempo de subida/bajada
