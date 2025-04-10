@@ -31,9 +31,15 @@ El osciloscopio es un instrumento de medición mediante gráficas, el cual mide 
 <br>
 </div>
 
-*El <i>trigger</i> es un disparador del osciloscopio que captura una señal y genera una imagen fija en la pantalla.
+*El <i>trigger</i> es un disparador (flanco o pulsos) del osciloscopio que captura una señal y genera una imagen fija en la pantalla.
 
-Como buena práctica, antes de realizar una medición con el osciloscopio se debe calibrar a partir de la señal por defecto que trae consigo el instrumento de medida.
+<h3>Calibración</h3>
+
+Como buena práctica, antes de realizar una medición con el osciloscopio se debe calibrar a partir de la señal por defecto que trae consigo el instrumento de medida. Para esto se deben realizar los siguientes pasos:
+
+1. Conectar la sonda al conector de prueba
+2. Calibrar la atenuación de la sonda
+3. Calibrar las escalas horizontal y vertical
 
 <div align="center">
 <img src="Imagenes/image-4.png" alt="calibración"/>
