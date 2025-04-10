@@ -24,7 +24,7 @@ El osciloscopio es un instrumento de medición mediante gráficas, el cual mide 
 3. El desfase entre dos señales utilizando el modo XY.
 
 <div align="center">
-<img src="Imagenes/image-3.png" alt="osciloscopio"/>
+<img src="Imagenes/image-5.png" alt="osciloscopio"/>
 <br>
 <figcaption>Fuente: https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/UaUAAOSw9T1emd73/$_57.JPG?set_id=8800005007</figcaption>
 </div>
