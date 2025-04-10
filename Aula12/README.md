@@ -6,7 +6,7 @@ En esta clase se presentan el manejo del generador de señales y del osciloscopi
 
 Un generador de señales es un equipo de prueba que permite generar señales eléctricas en DC con diferentes formas de onda (senoidales, cuadradas, triangulares, entre otras). Para usar un generador de señales se debe tener en cuenta:
 
-1. Seleccionar el tipo de señal (AC o DC) que se desea generar.
+1. Seleccionar la forma de onda que se desea generar.
 2. Configurar la frecuencia y la amplitud de la señal.
 
 <div align="center">
