@@ -31,7 +31,7 @@ El osciloscopio es un instrumento de medición mediante gráficas, el cual mide 
 <br>
 </div>
 
-*El <i>trigger</i> es un disparador (flanco o pulsos) del osciloscopio que captura una señal y genera una imagen fija en la pantalla.
+*El <i>trigger</i> es un disparador (flanco o pulsos) del osciloscopio que estabiliza una señal a partir de la captura de dicha señal, generando una imagen estática en la pantalla. En algunos osciloscopios debe estar activado el modo single, el cual genera un pantallazo de la forma de onda que se está visualizando.
 
 <h3>Calibración</h3>
 
