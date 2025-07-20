@@ -89,43 +89,43 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>3.3%</td>
-		<td>07/02/2025</td>
+		<td>04/08/2025</td>
 		<td rowspan="8">Presencial</td>
 	</tr>
 	<tr>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>3.3%</td>
-		<td>21/02/2025</td>
+		<td>04/08/2025</td>
 	</tr>
 	<tr>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>3.6%</td>
-		<td>07/03/2025</td>
+		<td>25/08/2025</td>
 	</tr>
 	<tr>
 		<td>Guía No. 4 de laboratorio</td>
 		<td>3.6%</td>
-		<td>21/03/2025</td>
+		<td>08/09/2025</td>
 	</tr>
 	<tr>
 		<td>Guía No. 5 de laboratorio</td>
 		<td>3.9%</td>
-		<td>04/04/2025</td>
+		<td>22/09/2025</td>
 	</tr>
     <tr>
 		<td>Guía No. 6 de laboratorio</td>
 		<td>3.9%</td>
-		<td>25/04/2025</td>
+		<td>20/10/2025</td>
 	</tr>
     <tr>
 		<td>Guía No. 7 de laboratorio</td>
 		<td>4.2%</td>
-		<td>09/05/2025</td>
+		<td>20/10/2025</td>
 	</tr>
     <tr>
 		<td>Guía No. 8 de laboratorio</td>
 		<td>4.2%</td>
-		<td>23/05/2025</td>
+		<td>10/11/2025</td>
 	</tr>
 </table>
 
