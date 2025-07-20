@@ -53,7 +53,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>29/09/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Socialización de guías No. 6 y 7 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>06/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA RECESO</td>
+		<td>06/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
 	</tr>
 	<tr>
 		<td>13/10/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
