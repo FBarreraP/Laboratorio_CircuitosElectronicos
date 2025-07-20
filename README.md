@@ -20,58 +20,58 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>24/01/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>21/07/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>31/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización de guía No. 1 de laboratorio y proyecto</td>
+		<td>28/07/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización de guías No. 1 y 2 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
-		<td>07/02/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>04/08/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guías No. 1 y 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>14/02/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Socialización de guía No. 2 de laboratorio</td>
+		<td>11/08/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Socialización de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>21/02/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>18/08/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>28/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización de guía No. 3 de laboratorio</td>
+		<td>25/08/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>07/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio</td>
+		<td>01/09/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización de guía No. 4 de laboratorio</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
-		<td>14/03/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Socialización de guía No. 4 de laboratorio</td>
+		<td>08/09/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega guía No. 4 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>21/03/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega guía No. 4 de laboratorio</td>
+		<td>15/09/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Socialización de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>28/03/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Socialización de guía No. 5 de laboratorio</td>
+		<td>22/09/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>04/04/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
+		<td>29/09/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Socialización de guías No. 6 y 7 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>11/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización de guía No. 6 de laboratorio</td>
+		<td>06/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA RECESO</td>
 	</tr>
 	<tr>
-		<td>18/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>13/10/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--semana de parciales del segundo corte-->
 		<tr>
-		<td>25/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio</td>
+		<td>20/10/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guías No. 6 y 7 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
-		<td>02/05/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 7 de laboratorio</td>
+		<td>27/10/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 8 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>09/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio</td>
+		<td>03/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>16/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Socialización de guía No. 8 de laboratorio</td>
+		<td>10/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>23/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
+		<td>17/11/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
 	</tr><!--semana de examenes finales-->
 </table>
 
