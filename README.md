@@ -158,8 +158,12 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 	<br>
 	<figcaption>Fuente: https://www.sigmaelectronica.net/producto/utp3305/</figcaption>
 	</div>
-    <li> Multimetro</li>
-    <img src="https://electronicasannicolas.com.co/wp-content/uploads/2022/03/MULTIMETRO-DIGITAL-UT33C-UNIT-3641.png" alt="Multimetro UNI-T" caption="Hola"/>
+    <li> Multímetro</li>
+	<div align="center">
+	<img src="image-2.png" width="700" alt="Multímetro"/>
+	<br>
+	<figcaption>Fuente: https://radiomecano.com.ar/Instrumentos-de-Medicion/90-0223260_TESTER-UNI-T-UT-33C-DIGITAL-CTEMPERATURA.html</figcaption>
+	</div>
 	<li>Osciloscopio</li>
 	<div align="center">
 	<img src="image.png" alt="Osciloscopio"/>
@@ -169,7 +173,11 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
     <li> Leds, resistencias, pulsadores, cables, protoboard</li>
     <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9gkrJHsEK9MCYNnJTZklwsNtW58ZzmrtdPMma9dXKXkLdYbt1PkHeGMi5cwDLLlRiOng2ozwdsB60QtZNCQF4hc3WUnPT6rx9HmCUAt1KuATjyJY9bNNWRA&usqp=CAE" alt="kit de protoboard" caption="Hola"/>
     <li> Potenciómetro</li>
-    <img src="https://curtocircuito.com.br/pub/media/catalog/product/cache/ebf77fb58d795a2dbe3218c301c821c6/p/o/potenci_metro_linear_-_1m_-_l20_2_.jpg" alt="potenciometro" caption="Hola"/>
+	<div align="center">
+	<img src="image-3.png" width="700" alt="Potenciómetro"/>
+	<br>
+	<figcaption>Fuente: https://tecnoconciencia.com/producto/potenciometro/</figcaption>
+	</div>
     <li> PT100</li>
     <img src="https://i0.wp.com/www.teslaelectronic.com.pe/wp-content/uploads/2019/04/RTD-PT100.1A.jpg?fit=700%2C700&ssl=1" alt="RTD PT100" caption="Hola"/>
 </ul>
