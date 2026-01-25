@@ -13,7 +13,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>MEC D</h4>
+<h4>MEC E</h4>
 
 <table>
 	<tr>
