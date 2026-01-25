@@ -160,7 +160,7 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 	</div>
     <li> Multímetro</li>
 	<div align="center">
-	<img src="image-2.png" width="700" alt="Multímetro"/>
+	<img src="image-2.png" width="500" alt="Multímetro"/>
 	<br>
 	<figcaption>Fuente: https://radiomecano.com.ar/Instrumentos-de-Medicion/90-0223260_TESTER-UNI-T-UT-33C-DIGITAL-CTEMPERATURA.html</figcaption>
 	</div>
@@ -174,7 +174,7 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
     <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9gkrJHsEK9MCYNnJTZklwsNtW58ZzmrtdPMma9dXKXkLdYbt1PkHeGMi5cwDLLlRiOng2ozwdsB60QtZNCQF4hc3WUnPT6rx9HmCUAt1KuATjyJY9bNNWRA&usqp=CAE" alt="kit de protoboard" caption="Hola"/>
     <li> Potenciómetro</li>
 	<div align="center">
-	<img src="image-3.png" width="700" alt="Potenciómetro"/>
+	<img src="image-3.png" width="400" alt="Potenciómetro"/>
 	<br>
 	<figcaption>Fuente: https://tecnoconciencia.com/producto/potenciometro/</figcaption>
 	</div>
