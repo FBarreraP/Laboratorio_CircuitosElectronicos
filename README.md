@@ -47,13 +47,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>23/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>30/03/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
+		<td>30/03/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>06/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>SEMANA SANTA</td>
+		<td>06/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>13/04/2026</td> <td></td> <td></td> <td></td> <td>Socialización de guía No. 6 de laboratorio</td>
+		<td>13/04/2026</td> <td></td> <td>11</td> <td>11</td> <td>Socialización de guía No. 6 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio</td>
@@ -71,11 +71,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>18/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>25/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
+		<td>25/05/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
 	</tr><!--Finalización de clases-->
-	<tr>
-		<td>17/11/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
-	</tr><!--semana de examenes finales-->
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
