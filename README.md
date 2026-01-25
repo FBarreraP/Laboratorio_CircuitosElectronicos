@@ -53,7 +53,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>13/04/2026</td> <td></td> <td>11</td> <td>11</td> <td>Socialización de guía No. 6 de laboratorio</td>
+		<td>13/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Socialización de guía No. 6 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio</td>
@@ -81,51 +81,31 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td>Actividad</td>
-		<td>Porcentaje 💯</td>
-		<td>Fecha</td>
-		<td>Metodología</td>
+		<td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td> 
 	</tr>
 	<tr>
-		<td>Guía No. 1 de laboratorio</td>
-		<td>3.3%</td>
-		<td>04/08/2026</td>
-		<td rowspan="8">Presencial</td>
+		<td>Guía No. 1 de laboratorio</td> <td>3.3%</td> <td>09/02/2026</td> <td rowspan="8">Presencial</td>
 	</tr>
 	<tr>
-		<td>Guía No. 2 de laboratorio</td>
-		<td>3.3%</td>
-		<td>04/08/2026</td>
+		<td>Guía No. 2 de laboratorio</td> <td>3.3%</td> <td>09/02/2026</td> 
 	</tr>
 	<tr>
-		<td>Guía No. 3 de laboratorio</td>
-		<td>3.6%</td>
-		<td>25/08/2026</td>
+		<td>Guía No. 3 de laboratorio</td> <td>3.6%</td> <td>23/02/2026</td>
 	</tr>
 	<tr>
-		<td>Guía No. 4 de laboratorio</td>
-		<td>3.6%</td>
-		<td>08/09/2026</td>
+		<td>Guía No. 4 de laboratorio</td> <td>3.6%</td> <td>09/03/2026</td> 
 	</tr>
 	<tr>
-		<td>Guía No. 5 de laboratorio</td>
-		<td>3.9%</td>
-		<td>22/09/2026</td>
+		<td>Guía No. 5 de laboratorio</td> <td>3.9%</td> <td>06/04/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 6 de laboratorio</td>
-		<td>3.9%</td>
-		<td>20/10/2026</td>
+		<td>Guía No. 6 de laboratorio</td> <td>3.9%</td> <td>20/04/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 7 de laboratorio</td>
-		<td>4.2%</td>
-		<td>20/10/2026</td>
+		<td>Guía No. 7 de laboratorio</td> <td>4.2%</td> <td>04/05/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 8 de laboratorio</td>
-		<td>4.2%</td>
-		<td>10/11/2026</td>
+		<td>Guía No. 8 de laboratorio</td> <td>4.2%</td> <td>25/05/2026</td>
 	</tr>
 </table>
 
