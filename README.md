@@ -50,25 +50,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>30/03/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>06/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Socialización de guías No. 6 y 7 de laboratorio</td>
+		<td>06/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>13/04/2026</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+		<td>13/04/2026</td> <td></td> <td></td> <td></td> <td>Socialización de guía No. 6 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
+		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio</td>
 	</tr><!--semana de parciales del segundo corte-->
 		<tr>
-		<td>27/04/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guías No. 6 y 7 de laboratorio</td>
+		<td>27/04/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de guía No. 7 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
-		<td>27/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 8 de laboratorio</td>
+		<td>04/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>03/11/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
+		<td>11/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Socialización de guía No. 8 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>10/11/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
+		<td>18/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
+	</tr>
+	<tr>
+		<td>25/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
 	</tr><!--Finalización de clases-->
 	<tr>
 		<td>17/11/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
