@@ -23,8 +23,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/01/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>02/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización de guías No. 1 y 2 de laboratorio y proyecto</td>
-	</tr>
+		<td>02/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización de guías No. 1 y 2 de laboratorio</td>
+	</tr>y
 	<tr>
 		<td>09/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guías No. 1 y 2 de laboratorio</td>
 	</tr>
@@ -118,13 +118,13 @@ Nota del curso = (0.21)*NotaCorte1 + (0.21)*NotaCorte2 + (0.28)*NotaCorte3 + (**
 		<li> Inicio de clases: Quince (15) minutos después de la hora inicial definida de la clase y el control de asistencia se realiza a cada inicio de clase ⌚</li>
 		<li> Fin de clases: Quince (15) minutos antes de la hora final definida de la clase ⏱️</li>
 		<li> Respeto en clase 🤝</li>
-		<li> No presto mi computador para presentar laboratorios, talleres y/o proyectos 🤦‍♂️</li>
+		<li> No presto mi computador para presentar laboratorios y/o talleres 🤦‍♂️</li>
 		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲</li>
 		<li> Si no dejan dictar la clase, pasan al tablero a dar la clase o doy la clase por vista 😤</li>
 		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/Laboratorio_CircuitosElectronicos </li>
-		<li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
+		<li> Los laboratorios consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
 		<li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
-		<li> Los laboratorios y el proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0; las cuales tendrán diferentes entregables con fechas fijas de entrega y el orden de entrega de los grupos será definida por el profesor 💥</li> 
+		<li> Los laboratorios se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0; las cuales tendrán diferentes entregables con fechas fijas de entrega y el orden de entrega de los grupos será definida por el profesor 💥</li> 
 		<li> Uso obligatorio de bata blanca en el laboratorio de robótica 🥼</li>
 	</ul>
 
