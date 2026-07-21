@@ -50,7 +50,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>21/09/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Socialización de guía No. 6 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>28/09/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio</td>
+		<td>28/09/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 6 de laboratorio<br>Socialización de guía No. 7 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>05/10/2026</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
@@ -59,10 +59,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>12/10/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--semana de parciales del segundo corte-->
 		<tr>
-		<td>19/10/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de guía No. 7 de laboratorio</td>
+		<td>19/10/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
-		<td>26/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio<br>Socialización de guía No. 8 de laboratorio</td>
+		<td>26/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Socialización de guía No. 8 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>02/11/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
