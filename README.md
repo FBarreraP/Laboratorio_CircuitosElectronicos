@@ -62,19 +62,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>19/10/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de guía No. 7 de laboratorio</td>
 	</tr><!--última semana de registro de notas del segundo corte-->
 	<tr>
-		<td>26/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio</td>
+		<td>26/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 7 de laboratorio<br>Socialización de guía No. 8 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>02/11/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>09/11/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Socialización de guía No. 8 de laboratorio</td>
+		<td>09/11/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
 	</tr>
 	<tr>
 		<td>16/11/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
-	</tr><!--Finalización de clases-->
-	<tr>
-		<td>23/11/2026</td> <td>2</td> <td>18</td> <td>18</td> <td>Desarrollo y/o entrega de guía No. 8 de laboratorio<br>Entrega de notas finales</td>
 	</tr><!--Finalización de clases-->
 </table>
 
@@ -87,28 +84,28 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td> 
 	</tr>
 	<tr>
-		<td>Guía No. 1 de laboratorio</td> <td>3.3%</td> <td>09/02/2026</td> <td rowspan="8">Presencial</td>
+		<td>Guía No. 1 de laboratorio</td> <td>3.3%</td> <td>03/08/2026</td> <td rowspan="8">Presencial</td>
 	</tr>
 	<tr>
-		<td>Guía No. 2 de laboratorio</td> <td>3.3%</td> <td>09/02/2026</td> 
+		<td>Guía No. 2 de laboratorio</td> <td>3.3%</td> <td>03/08/2026</td> 
 	</tr>
 	<tr>
-		<td>Guía No. 3 de laboratorio</td> <td>3.6%</td> <td>23/02/2026</td>
+		<td>Guía No. 3 de laboratorio</td> <td>3.6%</td> <td>24/08/2026</td>
 	</tr>
 	<tr>
-		<td>Guía No. 4 de laboratorio</td> <td>3.6%</td> <td>09/03/2026</td> 
+		<td>Guía No. 4 de laboratorio</td> <td>3.6%</td> <td>31/08/2026</td> 
 	</tr>
 	<tr>
-		<td>Guía No. 5 de laboratorio</td> <td>3.9%</td> <td>06/04/2026</td>
+		<td>Guía No. 5 de laboratorio</td> <td>3.9%</td> <td>14/09/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 6 de laboratorio</td> <td>3.9%</td> <td>20/04/2026</td>
+		<td>Guía No. 6 de laboratorio</td> <td>3.9%</td> <td>28/09/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 7 de laboratorio</td> <td>4.2%</td> <td>04/05/2026</td>
+		<td>Guía No. 7 de laboratorio</td> <td>4.2%</td> <td>26/10/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 8 de laboratorio</td> <td>4.2%</td> <td>25/05/2026</td>
+		<td>Guía No. 8 de laboratorio</td> <td>4.2%</td> <td>09/11/2026</td>
 	</tr>
 </table>
 
