@@ -102,7 +102,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Guía No. 6 de laboratorio</td> <td>3.9%</td> <td>28/09/2026</td>
 	</tr>
     <tr>
-		<td>Guía No. 7 de laboratorio</td> <td>4.2%</td> <td>26/10/2026</td>
+		<td>Guía No. 7 de laboratorio</td> <td>4.2%</td> <td>19/10/2026</td>
 	</tr>
     <tr>
 		<td>Guía No. 8 de laboratorio</td> <td>4.2%</td> <td>09/11/2026</td>
